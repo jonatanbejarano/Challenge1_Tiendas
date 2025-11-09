@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo analizar los datos de ventas, envío y calific
 
 ## Estructura del repositorio
 
-* `AluraStoreLatam.ipynb` : Notebook de análisis en Jupyter que carga los datos, realiza el cómputo de ingresos, costos, promedios de calificación, ganancias netas y presenta conclusiones.
+* `AluraStoreLatam.ipynb` : Notebook de análisis que carga los datos, realiza el cómputo de ingresos, costos, promedios de calificación, ganancias netas y presenta conclusiones.
 
 ## Datos utilizados
 
